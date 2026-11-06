@@ -236,4 +236,4 @@ LaunchBox is available as a full free version, providing all features and update
 Take charge of your gaming experience today! Download LaunchBox for free and elevate your video game library management to the next level.
 
 ---
-**Last updated:** 2026-11-05 19:24:00 UTC
+**Last updated:** 2026-11-06 00:41:25 UTC
